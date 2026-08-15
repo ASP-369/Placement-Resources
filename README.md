@@ -13,6 +13,8 @@ SQL Related Resources :
 
 System Design Basic: https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
 
+Low Level System Design: https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=LjqNxkurfLz6j4h_
+
 ARM DSA que: https://interviewsolver.com/interview-questions/arm
 
 
